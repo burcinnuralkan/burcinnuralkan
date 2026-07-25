@@ -7,7 +7,6 @@ I'm a Computer Engineering student with a strong interest in software developmen
 ### 💼 Current Status
 - 📚 Studying Computer Engineering  
 - 💻 Intern at **Hitit**  
-- 🌱 Currently learning: Java, SQL, Vue.js, Tailwind CSS
 
 ---
 
